@@ -25,6 +25,11 @@
         <default>false</default>
         <label>Complete</label>
     </customValue>
+    <customValue>
+        <fullName>Not Started</fullName>
+        <default>false</default>
+        <label>Not Started</label>
+    </customValue>
     <masterLabel>Reservation Status</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
