@@ -45,6 +45,11 @@
         <default>false</default>
         <label>Relaxing</label>
     </customValue>
+    <customValue>
+        <fullName>Large Groups</fullName>
+        <default>false</default>
+        <label>Large Groups</label>
+    </customValue>
     <masterLabel>Types</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>

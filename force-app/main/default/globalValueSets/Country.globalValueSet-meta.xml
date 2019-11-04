@@ -35,6 +35,11 @@
         <default>false</default>
         <label>Amsterdam</label>
     </customValue>
+    <customValue>
+        <fullName>United States</fullName>
+        <default>false</default>
+        <label>United States</label>
+    </customValue>
     <masterLabel>Country</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
